@@ -1,20 +1,19 @@
 # Investigation of Lockdown and COVID-19 Vaccination Effects in Ireland
 
-Welcome to the GitHub repository for the research project titled "An Investigation of the Effects of Lockdowns and COVID-19 Vaccinations in Ireland." This repository contains the necessary data and code to reproduce the findings presented in the associated paper.
+Welcome to the GitHub repository for the research project titled "An Investigation of the Effects of Lockdowns and COVID-19 Vaccinations in Ireland." This repository contains the necessary data and codes to reproduce the findings presented in the associated paper.
 
 **Paper Title:** An Investigation of the Effects of Lockdowns and COVID-19 Vaccinations in Ireland
 
-**Authors:** Pourshir Sefidi et al.
+**Authors:** Niloufar Pourshir Sefidi, Amin Shoari Nejad, Peter Mooney
 
 **Paper Link:** Read the full paper [here](https://agile-giss.copernicus.org/articles/4/37/2023).
 
 
 
-
-
 ## Overview
 
-In this research project, we explored the effects of lockdown measures and COVID-19 vaccinations on various aspects in Ireland. The provided code and data enable you to replicate our analyses, visualize the results, and potentially extend our research in new directions.
+This repository presents a study on Ireland's pandemic responses. Using Bayesian modelling, we analyze how lockdowns and vaccinations impact all-cause deaths, including COVID-19. Results highlight the effectiveness of these measures in reducing mortality.
+The provided code and data enable you to replicate our analyses, visualize the results, and potentially extend our research in new directions.
 
 ## Repository Structure
 
