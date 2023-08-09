@@ -12,16 +12,16 @@ Welcome to the GitHub repository for the research project titled "An Investigati
 
 ## Overview
 
-This repository presents a study on Ireland's pandemic responses. Using Bayesian modelling, we analyze how lockdowns and vaccinations impact all-cause deaths, including COVID-19. Results highlight the effectiveness of these measures in reducing mortality.
-The provided code and data enable you to replicate our analyses, visualize the results, and potentially extend our research in new directions.
+This repository presents a study on Ireland's pandemic responses. Using Bayesian modelling, we analyze how lockdowns and vaccinations impact all-cause deaths, including COVID-19. Results highlight the effectiveness of these measures in reducing mortality. The provided code and data enable you to replicate our analyses, visualize the results, and potentially extend our research in new directions.
+
 
 ## Repository Structure
 
 The repository is organized as follows:
 
-- **data/:** This directory contains the datasets used in our study. Due to data size constraints, we have provided a subset of the data. Please refer to the paper for complete details about the data sources.
+- **dataset.rds:** This rds file is the one used in our study. 
 
-- **code/:** Here, you'll find the codebase used for data preprocessing, analysis, and visualization. The code is organized into separate notebooks for different stages of the research.
+- **paper_codes:** Here, you'll find the codebase used for analysis, and visualization.
 
 ## Getting Started
 
@@ -40,19 +40,14 @@ Navigate to the repository's directory:
 cd Covid-Project
 ```
 
-Explore the data/ directory to access the provided datasets.
-
-Explore the code/ directory to view and run the Jupyter notebooks containing the analysis code.
-
 ## Reproducing the Results
 
 To reproduce the results presented in the paper:
 
-Open the Jupyter notebooks in the code/ directory using a Jupyter Notebook environment.
+Open Rstudio.
 
-Follow the step-by-step instructions within the notebooks to preprocess the data, conduct analyses, and generate visualizations.
+Follow the step-by-step instructions within the codes to conduct analyses, and generate visualizations.
 
-Feel free to modify the code or parameters to explore different scenarios or conduct additional analyses.
 
 ## Contributing
 
@@ -62,5 +57,4 @@ We welcome contributions that can enhance or extend the research presented in th
 
 If you have any questions or need further assistance, please contact the corresponding author, Pourshir Sefidi, at niloufar.pourshirsefidi.2022@mumail.ie
 
-We hope you find this repository helpful and insightful. 
 
