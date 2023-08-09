@@ -3,8 +3,10 @@
 Welcome to the GitHub repository for the research project titled "An Investigation of the Effects of Lockdowns and COVID-19 Vaccinations in Ireland." This repository contains the necessary data and code to reproduce the findings presented in the associated paper.
 
 **Paper Title:** An Investigation of the Effects of Lockdowns and COVID-19 Vaccinations in Ireland
+
 **Authors:** Pourshir Sefidi et al.
-**Paper Link:** Read the full paper ([here] https://agile-giss.copernicus.org/articles/4/37/2023/)
+
+**Paper Link:** Read the full paper [here] (https://agile-giss.copernicus.org/articles/4/37/2023/)
 
 ## Overview
 
