@@ -8,7 +8,9 @@ Welcome to the GitHub repository for the research project titled "An Investigati
 
 **Paper Link:** Read the full paper ([here] (https://agile-giss.copernicus.org/articles/4/37/2023/))
 
-([arXiv](http://arxiv.org/abs/2306.03042))
+
+([arXiv](https://agile-giss.copernicus.org/articles/4/37/2023))
+
 
 ## Overview
 
