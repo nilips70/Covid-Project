@@ -6,7 +6,7 @@ Welcome to the GitHub repository for the research project titled "An Investigati
 
 **Authors:** Pourshir Sefidi et al.
 
-**Paper Link:** Read the full paper ([here](https://agile-giss.copernicus.org/articles/4/37/2023)).
+**Paper Link:** Read the full paper [here](https://agile-giss.copernicus.org/articles/4/37/2023).
 
 
 
