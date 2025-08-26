@@ -6,7 +6,7 @@ library(rgdal)
 
 
 # ------- Reading and preparing data -------
-all_data = readRDS('Data/dataset.rds')
+all_data = readRDS('dataset.rds')
 
 # Creating the complete space time dataframe
 month = unique(all_data$month)
