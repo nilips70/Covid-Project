@@ -1,6 +1,6 @@
 # Investigation of Lockdown and COVID-19 Vaccination Effects in Ireland
 
-Welcome to the GitHub repository for the research project titled "An Investigation of the Effects of Lockdowns and COVID-19 Vaccinations in Ireland." This repository contains the necessary data and codes to reproduce the findings presented in the associated paper.
+This is a GitHub repository for the research project titled "An Investigation of the Effects of Lockdowns and COVID-19 Vaccinations in Ireland." This repository contains the necessary data and codes to reproduce the findings presented in the associated paper.
 
 **Paper Title:** An Investigation of the Effects of Lockdowns and COVID-19 Vaccinations in Ireland
 
