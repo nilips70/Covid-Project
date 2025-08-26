@@ -19,7 +19,7 @@ This repository presents a study on Ireland's pandemic responses. Using Bayesian
 
 The repository is organized as follows:
 
-- **dataset.rds:** This rds file is the one used in our study. 
+- **dataset.rds:** This rds file is the final dataset used in our study. 
 
 - **paper_codes:** Here, you'll find the codebase used for analysis, and visualization.
 
@@ -48,10 +48,6 @@ Open Rstudio.
 
 Follow the step-by-step instructions within the codes to conduct analyses, and generate visualizations.
 
-
-## Contributing
-
-We welcome contributions that can enhance or extend the research presented in the paper. If you have ideas for improvements, additional analyses, or new directions, please feel free to fork this repository and submit pull requests.
 
 ## Contact
 
