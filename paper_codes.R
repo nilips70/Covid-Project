@@ -3,7 +3,7 @@ library(tidyverse)
 library(lubridate)
 library(sf)
 library(rgdal)
-
+library(ggplot2)
 
 # ------- Reading and preparing data -------
 all_data = readRDS('dataset.rds')
