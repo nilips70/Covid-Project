@@ -23,31 +23,6 @@ The repository is organized as follows:
 - **gadm41_IRL_shp.zip:** This zipfile includes Irish counties shapefile.
 - **paper_codes:** Here, you'll find the codebase used for analysis, and visualization.
 
-## Getting Started
-
-To get started with using this repository, follow these steps:
-
-Clone the repository to your local machine using the following command:
-
-```bash
-git clone https://github.com/nilips70/Covid-Project.git
-```
-
-
-Navigate to the repository's directory:
-
-```bash
-cd Covid-Project
-```
-
-## Reproducing the Results
-
-To reproduce the results presented in the paper:
-
-Open Rstudio.
-
-Follow the step-by-step instructions within the codes to conduct analyses, and generate visualizations.
-
 
 ## Contact
 
