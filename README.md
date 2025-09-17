@@ -19,8 +19,8 @@ This repository presents a study on Ireland's pandemic responses. Using Bayesian
 
 The repository is organized as follows:
 
-- **dataset.rds:** This rds file is the final dataset used in our study. 
-
+- **dataset.rds:** This rds file is the final dataset used in our study.
+- **gadm41_IRL_shp.zip:** This zipfile includes Irish counties shapefile.
 - **paper_codes:** Here, you'll find the codebase used for analysis, and visualization.
 
 ## Getting Started
